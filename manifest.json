@@ -1,7 +1,7 @@
 {
 	"name": "FEND_monsters_and_music_replacer",
 	"version_number": "1.0.0",
-	"website_url": "https://thunderstore.io/package/AlphaStar/",
+	"website_url": "https://github.com/Fend-st/El-malvado-cabeza---R.E.P.O-headman-and-shop-audio-replacer",
 	"description": "replace_some_monsters_sounds_and_shop_music",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
@@ -9,3 +9,4 @@
 		"loaforc-loaforcsSoundAPI_REPO-1.0.1"
 	]
 }
+
