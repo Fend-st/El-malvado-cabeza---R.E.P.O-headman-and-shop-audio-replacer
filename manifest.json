@@ -1,8 +1,8 @@
 {
-	"name": "FEND_monsters_and_music_replacer",
-	"version_number": "1.0.1",
+	"name": "fend_headmanChaseReplace_malvado_cabeza",
+	"version_number": "1.0.2",
 	"website_url": "https://github.com/Fend-st/El-malvado-cabeza---R.E.P.O-headman-and-shop-audio-replacer",
-	"description": "replace_some_monsters_sounds_and_shop_music",
+	"description": "replace the headman chase loop for a AI generated song about headman, and also add music for the shop (look at the thunderstore site)",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"loaforc-loaforcsSoundAPI-2.0.6",
