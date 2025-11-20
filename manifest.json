@@ -1,8 +1,8 @@
 {
-	"name": "FEND - el malvado cabeza [headman and shop audio replacer]",
+	"name": "FEND_monsters_and_music_replacer",
 	"version_number": "1.0.0",
-	"website_url": "null",
-	"description": "Mod that modifies Headman's chase sound and adds themes to the store",
+	"website_url": "https://thunderstore.io/package/AlphaStar/",
+	"description": "replace_some_monsters_sounds_and_shop_music",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"loaforc-loaforcsSoundAPI-2.0.6",
