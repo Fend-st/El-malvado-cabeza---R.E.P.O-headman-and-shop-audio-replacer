@@ -1,6 +1,6 @@
 {
 	"name": "FENDheadmanChaseAudioReplaceMalvadoCabeza",
-	"version_number":"1.0.5",
+	"version_number":"1.0.6",
 	"website_url": "https://github.com/Fend-st/El-malvado-cabeza---R.E.P.O-headman-and-shop-audio-replacer",
 	"description": "replace the headman chase loop for a AI generated song about headman, and also add music for the shop look at the thunderstore site",
 	"dependencies": [

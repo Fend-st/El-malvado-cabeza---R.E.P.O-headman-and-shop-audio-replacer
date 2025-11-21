@@ -1,8 +1,8 @@
 # 1.0.5
-- - bug fix thundertore package management
+- another bug fix for package management
 
 # 1.0.4
-- bug fix thundertore package management
+- bug fix witch package management
 
 # 1.0.0 
 - initial release
