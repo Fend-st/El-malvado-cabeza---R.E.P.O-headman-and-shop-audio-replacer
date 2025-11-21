@@ -1,4 +1,4 @@
-# El-malvado-cabeza---R.E.P.O-headman-and-shop-audio-replacer
+# El-malvado-cabeza---R.E.P.O
 
 # What does this mod do?
 This mod replaces some monster enemy audio with AI-generated songs inspired by those enemies.<br>
@@ -15,3 +15,4 @@ headman - chase sound is replaced by "the malvado cabeza"
 
 # future updates
 More music could be added for different enemies and for the shop in the future.
+
