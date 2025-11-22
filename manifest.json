@@ -1,7 +1,7 @@
 {
 	"name": "FENDheadmanChaseAudioReplaceMalvadoCabeza",
-	"version_number":"1.0.7",
-	"website_url": "https://github.com/Fend-st/El-malvado-cabeza---R.E.P.O-headman-and-shop-audio-replacer",
+	"version_number": "1.0.7",
+	"website_url": "https://thunderstore.io/c/repo/p/AlphaStar/",
 	"description": "replace headman chase sound, shop music, and museum boombox with spanish AI generated parody songs",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
