@@ -24,6 +24,55 @@
         }
       ]
     },
+
+    {
+      "matches": [
+        "*:duck attack loop"
+      ],
+
+      "sounds": [
+        {
+          "sound": "pato.ogg"
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:hidden man player move loop"
+      ],
+
+      "sounds": [
+        {
+          "sound": "hidden.ogg"
+        }
+      ]
+    },
+
+    {
+      "matches": [
+        "*:boombox music local"
+      ],
+
+      "sounds": [
+        {
+          "sound": "pato.ogg",
+          "weight": 1
+        },
+        {
+          "sound": "viejo.ogg",
+          "weight": 1
+        },
+        {
+          "sound": "cabeza.ogg",
+          "weight": 1
+        },
+        {
+          "sound": "hidden.ogg",
+          "weight": 1
+        }
+      ]
+    },
+
     {
       "matches": [
         "*:shop music"
@@ -41,10 +90,12 @@
         {
           "sound": "cabeza.ogg",
           "weight": 1
+        },
+        {
+          "sound": "hidden.ogg",
+          "weight": 1
         }
-
       ]
-
     }
   ]
 }
