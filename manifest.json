@@ -5,7 +5,6 @@
 	"description": "replace headman chase sound, shop music, and museum boombox with spanish AI generated parody songs",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
-		"loaforc-loaforcsSoundAPI-2.0.6",
-		"loaforc-loaforcsSoundAPI_REPO-1.0.1"
+		"loaforc-loaforcsSoundAPI-2.0.6"
 	]
 }
